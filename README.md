@@ -1,6 +1,6 @@
 # Hello, I'm Tony
 
-I'm a <strong>Full-stack developer</strong>.
+I'm a <strong>Full-stack developer</strong> specialized in <strong>GIS</strong> applications.
 
 ## About me
 - Working at <strong>[Poisson Soluble](https://www.poisson-soluble.com/)</strong>
