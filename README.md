@@ -1,6 +1,6 @@
 # Hello, I'm Tony
 
-I'm a <strong>Symfony developer</strong>.
+I'm a <strong>Full-stack developer</strong>.
 
 ## About me
 - Working at <strong>[Poisson Soluble](https://www.poisson-soluble.com/)</strong>
