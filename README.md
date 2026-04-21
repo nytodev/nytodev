@@ -27,6 +27,6 @@ I'm a <strong>Symfony developer</strong>.
 ![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
 
 ## Stats
-![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=blardtony&theme=default&hide=C)
+![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nytodev&theme=default&hide=C)
    
-![Stats](https://github-readme-stats.vercel.app/api?username=blardtony&theme=default)
+![Stats](https://github-readme-stats.vercel.app/api?username=nytodev&theme=default)
