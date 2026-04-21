@@ -23,7 +23,10 @@ I'm a <strong>Full-stack developer</strong>.
 ![PostGIS](https://img.shields.io/badge/PostGIS-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
   
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=fff)
+![FrankenPHP](https://img.shields.io/badge/FrankenPHP-B3D133?style=for-the-badge&logo=php&logoColor=390075)
   
+![Leaflet](https://img.shields.io/badge/Leaflet-89C442?style=for-the-badge&logo=leaflet&logoColor=white)
+![OpenLayers](https://img.shields.io/badge/OpenLayers-00AAFF?style=for-the-badge&logo=openlayers&logoColor=white)
 ![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
 
 ## Stats
