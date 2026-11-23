@@ -5,7 +5,7 @@ I'm a <strong>Full-stack developer</strong> specialized in <strong>GIS</strong> 
 ## About me
 - Working at <strong>[Poisson Soluble](https://www.poisson-soluble.com/)</strong>
 - I was a student at <strong>[EPITA](https://www.epita.fr)</strong>
-- I'm from France, living in Montpellier
+- I'm from France, living in Mende
 
 ## Technologies & Tools
 
